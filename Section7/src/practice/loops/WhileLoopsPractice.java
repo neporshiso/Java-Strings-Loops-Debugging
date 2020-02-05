@@ -1,6 +1,6 @@
 package practice.loops;
 
-public class LoopsPractice {
+public class WhileLoopsPractice {
 
     public static void main(String args[]) {
 
